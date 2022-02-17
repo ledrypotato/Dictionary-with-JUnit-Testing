@@ -2,7 +2,8 @@
 <br>
 
 <p align="center">
-  <img src="graphs/graphe1.png" width="30%" height="30%">
+  <img src="img/JUnit_tests.PNG" width="40%" height="40%">
+  <img src="img/UML_diagram.PNG" width="40%" height="40%">
 </p>
 
 >## Project:
@@ -13,9 +14,17 @@ For this project we had to implement an English ↔️ French dictionary whilst 
 📚 Class: Génie Logiciel
 
 >## Features:
-- Translate a word
-- Add a translation
-- See all translations
+- Translate a word <p align="center">
+  <img src="img/option_1.PNG" width="30%" height="30%">
+</p>
+
+- Add a translation <p align="center">
+  <img src="img/option_2.PNG" width="40%" height="40%">
+</p>
+
+- See all translations <p align="center">
+  <img src="img/option_3.PNG" width="30%" height="30%">
+</p>
 
 >## Technology used:
 - Java
