@@ -1,0 +1,6 @@
+problem if you add a multiple translation 
+ie: bois;wood becomes bois;wood,log because it adds a "\n" , if you then add another translation it will
+add if after the empty line, this causes the program to crash the next time you launch it
+
+!!! only a problem if the multiple translation is on the last line of the file 
+if not there is no problem it will not add an "extra line"
